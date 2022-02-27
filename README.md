@@ -1,8 +1,11 @@
 TOPSIS
+
 Author Kunal Yadav
+
 Implemented Topsis algorithm on a dataset. Import package and use function.
 
 Algorithm
+
 STEP 1 : Create an evaluation matrix consisting of m alternatives and n criteria, with the intersection of each alternative and criteria. Apply any preprocessing if required.
 
 STEP 2 : The matrix is then normalised using the norm.
