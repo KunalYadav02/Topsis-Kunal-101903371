@@ -133,4 +133,4 @@ def topsis(filename,weights,impacts,output_filename):
          sys.exit("File Not Found: You need to specify the file path. Incorrect file path detected. Recheck the full file path.")
 
 if __name__ == "__main__":
-    topsis("101903371-data.csv",[1,1,2,2,3],["+","-","+","-","+"],"101903371-result.csv")
+    
